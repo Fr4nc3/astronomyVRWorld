@@ -70,12 +70,15 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-/Temp/*
-/.vs/*
-/logs/*
-/obj/*
-/Packages/*
+/Temp/
+/.vs/
+/logs/
+/obj/
+/Packages/
+/Library/
+
+
 /Assets/_LastBuild/*
 /Assets/! ! ! UCantGuardo Import/*
-/Library/*
-
+/Assets/SerializedUdonPrograms/*
+/Assets/SerializedUdonPrograms/
