@@ -1,4 +1,4 @@
-# Astronomy World Code ad Content credits 
+# Astronomy World Code andd Content credits 
 1. 1) Setup - Create Your First VRChat World. (2021).
 2. 2) Modeling - Create Your First VRChat World. (2021).
 3. (3) (PDF) Direct Detection of Ongoing Magnetic Reconnection at Mercury’s High‐Latitude Magnetopause. https://www.researchgate.net/publication/378519081_Direct_Detection_of_Ongoing_Magnetic_Reconnection_at_Mercury%27s_High-Latitude_Magnetopause/figures?lo=1.
